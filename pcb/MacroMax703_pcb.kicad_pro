@@ -549,7 +549,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -679,7 +679,7 @@
   "sheets": [
     [
       "5dc50f45-2023-4306-a658-a916799bf250",
-      "XAIO"
+      "MacroMax703_pcb"
     ]
   ],
   "text_variables": {},

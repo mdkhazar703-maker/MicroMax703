@@ -1298,7 +1298,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 104.14) (xy 175.26 104.14)
+			(xy 190.5 104.14) (xy 176.53 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1378,7 +1378,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 109.22) (xy 173.99 63.5)
+			(xy 175.26 109.22) (xy 175.26 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1538,7 +1538,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 104.14) (xy 175.26 64.77)
+			(xy 176.53 104.14) (xy 176.53 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1578,7 +1578,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 109.22) (xy 173.99 109.22)
+			(xy 190.5 109.22) (xy 175.26 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1668,7 +1668,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 64.77) (xy 116.84 64.77)
+			(xy 176.53 64.77) (xy 116.84 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1678,7 +1678,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 63.5) (xy 115.57 63.5)
+			(xy 175.26 63.5) (xy 115.57 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2090,7 +2090,7 @@
 			(uuid "ffd3d04e-b3e2-4ff5-a93c-c0a25bbcd3f5")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D2")
 					(unit 1)
@@ -2194,7 +2194,7 @@
 			(uuid "449cb301-a5dd-4d5a-8e0b-50fb528d5159")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D1")
 					(unit 1)
@@ -2298,7 +2298,7 @@
 			(uuid "999b6b4f-f14f-4389-9fd0-29581123c14e")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D5")
 					(unit 1)
@@ -2402,7 +2402,7 @@
 			(uuid "5e2add04-b0d5-4ce9-ae77-e7f6ce928401")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D9")
 					(unit 1)
@@ -2482,7 +2482,7 @@
 			(uuid "b30787b9-7192-47f6-affa-616cdbba4537")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW8")
 					(unit 1)
@@ -2562,7 +2562,7 @@
 			(uuid "f3d18409-93fc-46c5-bd4d-62a5298d9dd1")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW5")
 					(unit 1)
@@ -2641,7 +2641,7 @@
 			(uuid "d74abc25-e5d4-4a90-b205-2f53513239a1")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "#PWR04")
 					(unit 1)
@@ -2721,7 +2721,7 @@
 			(uuid "73f1aa40-f322-4fba-8060-0bc794d108ae")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW3")
 					(unit 1)
@@ -2810,7 +2810,7 @@
 			(uuid "743b053c-8ffb-4d30-a766-f19f998e84b8")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW10")
 					(unit 1)
@@ -2914,7 +2914,7 @@
 			(uuid "cb05d0fa-4bd3-4f1d-a4cc-fdd2cfeaba4b")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D4")
 					(unit 1)
@@ -2994,7 +2994,7 @@
 			(uuid "f403fa7d-6c3b-4adf-b102-7df2a328c7a2")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW6")
 					(unit 1)
@@ -3074,7 +3074,7 @@
 			(uuid "c78236e0-ef53-415a-acff-39914fd2f6a7")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW1")
 					(unit 1)
@@ -3154,7 +3154,7 @@
 			(uuid "75c2e14b-d798-4a09-8865-fb9e670e2ad5")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW9")
 					(unit 1)
@@ -3164,7 +3164,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 106.68 270)
+		(at 190.5 106.68 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3175,7 +3175,7 @@
 		(fields_autoplaced yes)
 		(uuid "8535c244-ab04-43fd-8bba-da82a689f630")
 		(property "Reference" "#PWR05"
-			(at 182.88 106.68 0)
+			(at 184.15 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3186,7 +3186,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 106.6799 90)
+			(at 186.69 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3197,7 +3197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3208,7 +3208,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3219,7 +3219,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3233,7 +3233,7 @@
 			(uuid "56840967-fc5b-4067-a2b5-ad6e18475d21")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "#PWR05")
 					(unit 1)
@@ -3313,7 +3313,7 @@
 			(uuid "9ef735bb-883a-4e43-957f-884fb67ded10")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW4")
 					(unit 1)
@@ -3392,7 +3392,7 @@
 			(uuid "9471ca7b-ff5a-4759-ab00-fb8786921da4")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "#PWR02")
 					(unit 1)
@@ -3496,7 +3496,7 @@
 			(uuid "dfcaf772-4fb3-4239-af6a-a6b4a1cc057c")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D8")
 					(unit 1)
@@ -3575,7 +3575,7 @@
 			(uuid "1f231aff-f0f3-49d2-b1b4-f7894c8b47b2")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "#PWR07")
 					(unit 1)
@@ -3679,7 +3679,7 @@
 			(uuid "de4f6054-d81a-4572-81a0-f1ef21a4186d")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D6")
 					(unit 1)
@@ -3759,7 +3759,7 @@
 			(uuid "bf943142-602d-4fb2-8893-7ffb616f7235")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW2")
 					(unit 1)
@@ -3863,7 +3863,7 @@
 			(uuid "a53d6f3a-da3d-484a-a8ee-fee6b852482c")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D7")
 					(unit 1)
@@ -3873,7 +3873,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 196.85 106.68 0)
+		(at 198.12 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3884,7 +3884,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc163ebb-dcea-4aab-addb-db3598244d15")
 		(property "Reference" "SW11"
-			(at 196.85 96.52 0)
+			(at 198.12 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3894,7 +3894,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 196.85 99.06 0)
+			(at 198.12 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3904,7 +3904,7 @@
 			)
 		)
 		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 193.04 102.616 0)
+			(at 194.31 102.616 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3915,7 +3915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 100.076 0)
+			(at 198.12 100.076 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3926,7 +3926,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 196.85 106.68 0)
+			(at 198.12 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3952,7 +3952,7 @@
 			(uuid "c634af19-af17-45c4-be03-eb7b90236830")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW11")
 					(unit 1)
@@ -4032,7 +4032,7 @@
 			(uuid "3ae4610f-0e93-41b3-97a3-453495da77c0")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "SW7")
 					(unit 1)
@@ -4136,7 +4136,7 @@
 			(uuid "a01a2261-1e46-4872-82d1-47db596d0829")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "D3")
 					(unit 1)
@@ -4252,7 +4252,7 @@
 			(uuid "57d33f6e-e96f-4191-a704-23ae6f259889")
 		)
 		(instances
-			(project "XAIO"
+			(project "MacroMax703_pcb"
 				(path "/5dc50f45-2023-4306-a658-a916799bf250"
 					(reference "U1")
 					(unit 1)
