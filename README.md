@@ -24,7 +24,7 @@ Encoders: 2× rotary encoders with integrated push-button switches (SW10, SW11)
 
 **Software**
 Tools Used:-
-KICad-PCB desinging 
-Onshape- Case desing 
-QMK Firmware- Macroboard Firmware Development
+KICad-PCB desinging;
+Onshape- Case desing; 
+QMK Firmware- Macroboard Firmware Development;
 
