@@ -55,3 +55,8 @@ We're not saying what it does here. Build one, dig through the firmware, and fin
 3. Route your own PCB traces
 4. Order and assemble your board
 5. Download QMK Firmware and program your own macro pad
+
+## Credits 
+
+- Footprints of XIAO by hack Club Package
+- Claude to explain and identify DRC issue of Thermal relif
