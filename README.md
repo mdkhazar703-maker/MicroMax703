@@ -7,6 +7,7 @@ A QMK-powered macro pad built around a Seeeduino XIAO, with a 3×3 switch matrix
 ## The Circuit Board
 
 The heart of MacroMax703. This board is the platform that connects every part together into one seamless, clean-looking macro pad. At a glance it might look like a simple green rectangle, but it's actually packed with intricate wiring and several electronic components, forming a small, bustling network of data and electricity.
+**[Click here for the KICanvas →](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fmdkhazar703-maker%2FMicroMax703%2Fblob%2Fmain%2Fpcb%2FMacroMax703_pcb.kicad_pro)**
 
 <img width="697" height="350" alt="Close-up of MacroMax703 PCB tracing detail" src="https://github.com/user-attachments/assets/1175a00d-ecad-4119-8a96-bd9a9fdd52d1" />
 
