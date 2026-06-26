@@ -16,7 +16,11 @@ The heart of MacroMax703. This board is the platform that connects every part to
 
 To house this board properly, it needed a case worthy of it.
 
-<img width="663" height="343" alt="MacroMax703 case design" src="https://github.com/user-attachments/assets/5930fb0b-c5ab-42cf-8820-82fbe04ec72b" />
+<a href="https://www.printables.com/model/1764776-macromax">
+  <img width="663" height="343" alt="MacroMax703 case design" src="https://github.com/user-attachments/assets/5930fb0b-c5ab-42cf-8820-82fbe04ec72b" />
+</a>
+
+**[Click here for the case files on Printables →](https://www.printables.com/model/1764776-macromax)**
 
 ## The Firmware
 
