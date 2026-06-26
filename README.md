@@ -59,4 +59,4 @@ We're not saying what it does here. Build one, dig through the firmware, and fin
 ## Credits 
 
 - Footprints of XIAO by hack Club Package
-- Claude to explain and identify DRC issue of Thermal relif
+- Claude to explain and identify DRC issue of Thermal relief
